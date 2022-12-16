@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer&text=Welcome!&fontSize=70&fontAlignY=75&desc=Place%20of%20Challenge&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer&text=Welcome👋&fontSize=70&fontAlignY=75&desc=Place%20of%20Challenge&descAlignY=55)
 
 ### Hi there 👋
 
