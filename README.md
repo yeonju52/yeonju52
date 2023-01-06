@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer&text=Welcome👋&fontSize=70&fontAlignY=75&desc=Challenge%20and%20Challenge&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer&text=AI%20Developer&fontSize=65&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=55&descSize=25)
 
-### Hi there 👋
+### Welcome 👋 I'm Yeonju Lee.
 
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
