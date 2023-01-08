@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=yeonju52&fontSize=60&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=50&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=yeonju52&fontSize=60&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=55&descSize=25)
 
 ### Welcome 👋
 - 😄 I'm Yeonju Lee.
