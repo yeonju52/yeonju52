@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer&text=AI%20Developer&fontSize=65&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=55&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=yeonju52&fontSize=60&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=50&descSize=25)
 
-### Welcome 👋 I'm Yeonju Lee.
+### Welcome 👋
+- 😄 I'm Yeonju Lee.
+- 🖥️ I wanna be an AI Developer.
 
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
