@@ -2,7 +2,7 @@
 
 ### Welcome 👋
 - 😄 I'm Yeonju Lee.
-- 🖥️ I wanna be a AI Engineer & Developer.
+- 🖥️ I wanna be a AI Engineer & c++ Developer.
 
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
