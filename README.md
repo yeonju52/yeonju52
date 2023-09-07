@@ -4,6 +4,22 @@
 - 😄 I'm Yeonju Lee.
 - 🖥️ I wanna be a AI Engineer & c++ Developer.
 
+- Linux 환경
+  - Ubuntu 20.04: ROS1, ROS2 programming
+    - 목적에 맞게 ROS1, ROS2 패키지 수정, 추가 가능
+    - Bash Shell Script 생성 및 사용 가능
+  - Ubuntu 22.04: 학부 인턴십 (2022, July~)
+    - Nvidia Driver와 Ubuntu 버전에 따라 알맞게 Cuda, Cudnn, OpenCV 설치
+    - 오픈소스 c++, python 개발 및 연구
+      > YOLOv1 (c++), YOLOv3, 5 (python - pytorch)
+    - vision 관련 툴 (openCV) 다룰 수 있음
+  - 심화 공부: 42Seoul La Piscine
+    - Bash Shell Script 작성
+    - Shell 언어 사용
+    - Vim으로 c 언어 작성 가능
+    - gcc c 언어 프로그램 컴파일하기
+
+
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
