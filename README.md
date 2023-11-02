@@ -9,21 +9,11 @@
   - 이전 연구 및 실험: YOLOv5으로 얼굴 탐지 - 1. 작은 object를 더 잘 탐지하도록, 저조도 이미지에서 더 잘 탐지하도록 (링크: [yolov5-face](https://github.com/yeonju52/yolov5-face))
   - 전반적인 공부 및 실습: [Computer Vision](https://github.com/yeonju52/ComputerVision)
     
-## Linux 환경
-  - Ubuntu 20.04: ROS1, ROS2 programming
-    - 목적에 맞게 ROS1, ROS2 패키지 수정, 추가 가능
-    - Bash Shell Script 생성 및 사용 가능
-  - Ubuntu 22.04: 학부 인턴십 (2022, July~)
-    - Nvidia Driver와 Ubuntu 버전에 따라 알맞게 Cuda, Cudnn, OpenCV 설치
-    - 오픈소스 c++, python 개발 및 연구
-      > YOLOv1 (c++), YOLOv3, 5 (python - pytorch)
-    - vision 관련 툴 (openCV) 다룰 수 있음
-  - 심화 공부: 42Seoul La Piscine
-    - Bash Shell Script 작성
-    - Shell 언어 사용
-    - Vim으로 c 언어 작성 가능
-    - gcc c 언어 프로그램 컴파일하기
-
+## 프로젝트
+  - 문자액락형 도서추천 앱 서비스(외부 한이음 프로젝트): GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘 담당
+      > SBert 네트워크를 참고하여, KoGPT를 이용한 추천 알고리즘을 구축 (설계 아이디어 및 구현에 대한 내용에 대해 알고 싶다면, [cometext-gpt](https://github.com/Hanium-Cometext/cometext-gpt)에서 참고)
+  - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트): 얼굴 탐지 알고리즘 + Flask 서버 연결 + 실시간 처리
+    
 
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
