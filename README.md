@@ -4,7 +4,7 @@
 - 😄 I'm Yeonju Lee.
 - 🖥️ I wanna be a C++ Developer & AI Engineer.
 
-## 학부인턴십 (현재 진행 중, [이론링크](https://github.com/yeonju52/ComputerVision))
+## 학부인턴십 (현재 진행 중, 2022.07 ~)
   - 최근 연구 및 실험: SR 연산에 대한 LUT(Look-Up Table) bit 줄이기 (링크: [SR_LUT](https://github.com/yeonju52/SR-LUT))
   - 이전 연구 및 실험: YOLOv5으로 얼굴 탐지 - 1. 작은 object를 더 잘 탐지하도록, 저조도 이미지에서 더 잘 탐지하도록 (링크: [yolov5-face](https://github.com/yeonju52/yolov5-face))
   - 전반적인 공부 및 실습: [Computer Vision](https://github.com/yeonju52/ComputerVision)
