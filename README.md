@@ -10,9 +10,9 @@
   - 전반적인 공부 및 실습: [Computer Vision](https://github.com/yeonju52/ComputerVision)
     
 ## 프로젝트
-  - 문자액락형 도서추천 앱 서비스(외부 한이음 프로젝트): GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘 담당
+  - 문자맥락형 도서추천 앱 서비스(외부 한이음 프로젝트): GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘 담당
       > SBert 네트워크를 참고하여, KoGPT를 이용한 추천 알고리즘을 구축 (설계 아이디어 및 구현에 대한 내용에 대해 알고 싶다면, [cometext-gpt](https://github.com/Hanium-Cometext/cometext-gpt)에서 참고)
-  - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트, 현재 진행 중): 얼굴 탐지 알고리즘(완료) + Flask 서버 연결(진행 중, 50%) + 실시간 처리(진행 중, 80%) (링크: [AI-Flask](https://github.com/Filter-Web/AI))
+  - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트, 현재 진행 중): 얼굴 탐지 알고리즘(완료) + Flask 서버 연결(완료) + 실시간 처리(완료) + 필터 적용 (70% - 정적 이미지 적용 성공) (링크: [AI-Flask](https://github.com/Filter-Web/AI))
     
 
 <!--
