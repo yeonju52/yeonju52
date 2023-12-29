@@ -4,16 +4,15 @@
 - 😄 I'm Yeonju Lee.
 - 🖥️ I wanna be a C++ Developer & AI Engineer.
 
-## 학부인턴십 (현재 진행 중, 2022.07 ~)
-  - 최근 연구 및 실험: SR 연산에 대한 LUT(Look-Up Table) bit 줄이기 (링크: [SR_LUT](https://github.com/yeonju52/SR-LUT))
-  - 이전 연구 및 실험: YOLOv5으로 얼굴 탐지 - 1. 작은 object를 더 잘 탐지하도록, 저조도 이미지에서 더 잘 탐지하도록 (링크: [yolov5-face](https://github.com/yeonju52/yolov5-face))
-  - 전반적인 공부 및 실습: [Computer Vision](https://github.com/yeonju52/ComputerVision)
-    
 ## 프로젝트
   - 문자맥락형 도서추천 앱 서비스(외부 한이음 프로젝트): GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘 담당
       > SBert 네트워크를 참고하여, KoGPT를 이용한 추천 알고리즘을 구축 (설계 아이디어 및 구현에 대한 내용에 대해 알고 싶다면, [cometext-gpt](https://github.com/Hanium-Cometext/cometext-gpt)에서 참고)
-  - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트, 현재 진행 중): 얼굴 탐지 알고리즘(완료) + Flask 서버 연결(완료) + 실시간 처리(완료) + 필터 적용 (70% - 정적 이미지 적용 성공) (링크: [AI-Flask](https://github.com/Filter-Web/AI))
-    
+  - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트): LINUX 환경 + 얼굴 탐지 알고리즘 + Flask 서버 연결 + 실시간 처리 + 필터 적용 + Web Server(Spring Boot)와 AI Server(Flask) 연동 (링크: [AI-Flask](https://github.com/Filter-Web/AI))
+
+## 학부인턴십 (현재 진행 중, 2022.07 ~)
+  - 최근 연구 및 실험: SR 연산에 대한 LUT(Look-Up Table) bit 줄이기 (링크: [SR_LUT](https://github.com/yeonju52/SR-LUT))
+  - 이전 연구 및 실험: YOLOv5으로 얼굴 탐지 - 1. 작은 object를 더 잘 탐지하도록, 저조도 이미지에서 더 잘 탐지하도록 (링크: [yolov5-face](https://github.com/yeonju52/yolov5-face))
+  - 전반적인 공부 및 실습: [Computer Vision](https://github.com/yeonju52/ComputerVision)    
 
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
