@@ -9,11 +9,18 @@
       > SBert 네트워크를 참고하여, KoGPT를 이용한 추천 알고리즘을 구축 (설계 아이디어 및 구현에 대한 내용에 대해 알고 싶다면, [cometext-gpt](https://github.com/Hanium-Cometext/cometext-gpt)에서 참고)
   - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트): LINUX 환경 + 얼굴 탐지 알고리즘 + Flask 서버 연결 + 실시간 처리 + 필터 적용 + Web Server(Spring Boot)와 AI Server(Flask) 연동 (링크: [AI-Flask](https://github.com/Filter-Web/AI))
 
-## 학부인턴십 (현재 진행 중, 2022.07 ~ 2024.02)
+## 학부인턴십 (2022.07 ~ 2024.02)
   - 최근 연구 및 실험: SR 연산에 대한 LUT(Look-Up Table) bit 줄이기 (링크: [SR_LUT](https://github.com/yeonju52/SR-LUT))
   - 이전 연구 및 실험: YOLOv5으로 얼굴 탐지 - 1. 작은 object를 더 잘 탐지하도록, 저조도 이미지에서 더 잘 탐지하도록 (링크: [yolov5-face](https://github.com/yeonju52/yolov5-face))
   - 전반적인 공부 및 실습: [Computer Vision](https://github.com/yeonju52/ComputerVision)    
 
+## KG-Kairos 1기 활동 (2024.01 ~ 2024.06)
+  - Vision AI를 이용한 서비스 촬영 로봇: 객체 탐지 모델(Yolov8)과 얼굴 인식 모델(Adaface)을 결합하여, 특정 인물을 따라가는 로봇을 구현. 로봇은 특정 인물을 따라가 촬영 서비스를 제공
+    > Linux 환경 + 객체 탐지 & 얼굴 인식 모델을 이용한 human follower 하는 로봇 구현, Depth Camera 이용, Flask 서버 구현(여러 원격 컴퓨터에 제어 명령어를 보내, 하나의 웹에서 여러 컴퓨터 제어 가능하도록 구현), 모든 기능은 ROS2-Humble 패키지화하여 구현
+    - 팀 MOIRO 깃허브 [MOIRO-KAIROS](https://github.com/MOIRO-KAIROS)
+    - 통합 워크스페이스 [moiro_ws](https://github.com/MOIRO-KAIROS/moiro_ws)
+    - 주요 개발 파트 [moiro_vision](https://github.com/MOIRO-KAIROS/moiro_vision) - demo ver. [faceRec](https://github.com/MOIRO-KAIROS/faceRec)
+    
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
