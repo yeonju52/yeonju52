@@ -9,7 +9,7 @@
       > SBert 네트워크를 참고하여, KoGPT를 이용한 추천 알고리즘을 구축 (설계 아이디어 및 구현에 대한 내용에 대해 알고 싶다면, [cometext-gpt](https://github.com/Hanium-Cometext/cometext-gpt)에서 참고)
   - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트): LINUX 환경 + 얼굴 탐지 알고리즘 + Flask 서버 연결 + 실시간 처리 + 필터 적용 + Web Server(Spring Boot)와 AI Server(Flask) 연동 (링크: [AI-Flask](https://github.com/Filter-Web/AI))
 
-## 학부인턴십 (현재 진행 중, 2022.07 ~)
+## 학부인턴십 (현재 진행 중, 2022.07 ~ 2024.02)
   - 최근 연구 및 실험: SR 연산에 대한 LUT(Look-Up Table) bit 줄이기 (링크: [SR_LUT](https://github.com/yeonju52/SR-LUT))
   - 이전 연구 및 실험: YOLOv5으로 얼굴 탐지 - 1. 작은 object를 더 잘 탐지하도록, 저조도 이미지에서 더 잘 탐지하도록 (링크: [yolov5-face](https://github.com/yeonju52/yolov5-face))
   - 전반적인 공부 및 실습: [Computer Vision](https://github.com/yeonju52/ComputerVision)    
