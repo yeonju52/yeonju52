@@ -4,6 +4,19 @@
 - 😄 I'm Yeonju Lee.
 - 🖥️ I wanna be a C++ Developer & AI Engineer.
 
+## KG-Kairos 1기 활동 (2024.01 ~ 2024.06)
+  - Vision AI를 이용한 서비스 촬영 로봇: 객체 탐지 모델(Yolov8)과 얼굴 인식 모델(Adaface)을 결합하여, 특정 인물을 따라가는 로봇을 구현. 로봇은 특정 인물을 따라가 촬영 서비스를 제공
+    > Linux 환경 + 객체 탐지 & 얼굴 인식 모델을 이용한 human follower 하는 로봇 구현, Depth Camera 이용, Flask 서버 구현(여러 원격 컴퓨터에 제어 명령어를 보내, 하나의 웹에서 여러 컴퓨터 제어 가능하도록 구현), 모든 기능은 ROS2-Humble 패키지화하여 구현
+    - 팀 MOIRO 깃허브 [MOIRO-KAIROS](https://github.com/MOIRO-KAIROS)
+    - 통합 워크스페이스 [moiro_ws](https://github.com/MOIRO-KAIROS/moiro_ws)
+    - 주요 개발 파트 [moiro_vision](https://github.com/MOIRO-KAIROS/moiro_vision) - demo ver. [faceRec](https://github.com/MOIRO-KAIROS/faceRec)
+    
+<p align="center">
+  <img src="img/MOIRO/MOIRO_HW.png" alt="Image 111" height="140"/>
+  <img src="img/MOIRO/MOIRO_Result.png" alt="Image 222" height="140"/>
+  <img src="img/MOIRO/MOIRO_WEB.png" alt="Image 333" height="140"/>
+</p>
+
 ## 프로젝트
   - 문자맥락형 도서추천 앱 서비스(외부 한이음 프로젝트): GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘 담당 > 메타인지
       > SBert 네트워크를 참고하여, KoGPT를 이용한 추천 알고리즘을 구축 (설계 아이디어 및 구현에 대한 내용에 대해 알고 싶다면, [cometext-gpt](https://github.com/Hanium-Cometext/cometext-gpt)에서 참고)
@@ -23,20 +36,6 @@
   <img src="img/INTERN/1_OpenPose.png" alt="Image 1" height="140"/>
   <img src="img/INTERN/2_YOLO_FACE.jpeg" alt="Image 2" height="140"/>
   <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" alt="Image 3" height="140"/>
-</p>
-
-
-## KG-Kairos 1기 활동 (2024.01 ~ 2024.06)
-  - Vision AI를 이용한 서비스 촬영 로봇: 객체 탐지 모델(Yolov8)과 얼굴 인식 모델(Adaface)을 결합하여, 특정 인물을 따라가는 로봇을 구현. 로봇은 특정 인물을 따라가 촬영 서비스를 제공
-    > Linux 환경 + 객체 탐지 & 얼굴 인식 모델을 이용한 human follower 하는 로봇 구현, Depth Camera 이용, Flask 서버 구현(여러 원격 컴퓨터에 제어 명령어를 보내, 하나의 웹에서 여러 컴퓨터 제어 가능하도록 구현), 모든 기능은 ROS2-Humble 패키지화하여 구현
-    - 팀 MOIRO 깃허브 [MOIRO-KAIROS](https://github.com/MOIRO-KAIROS)
-    - 통합 워크스페이스 [moiro_ws](https://github.com/MOIRO-KAIROS/moiro_ws)
-    - 주요 개발 파트 [moiro_vision](https://github.com/MOIRO-KAIROS/moiro_vision) - demo ver. [faceRec](https://github.com/MOIRO-KAIROS/faceRec)
-    
-<p align="center">
-  <img src="img/MOIRO/MOIRO_HW.png" alt="Image 111" height="140"/>
-  <img src="img/MOIRO/MOIRO_Result.png" alt="Image 222" height="140"/>
-  <img src="img/MOIRO/MOIRO_WEB.png" alt="Image 333" height="140"/>
 </p>
 
 <!--
