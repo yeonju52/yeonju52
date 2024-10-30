@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=yeonju52&fontSize=60&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=53&descSize=25)
 
-### Welcome 👋
-- 😄 I'm Yeonju Lee.
-- 🖥️ I wanna be a C++ Developer & AI Engineer.
+### 👋 AI 모델의 취약점을 최소화하는 개발자, 이연주입니다 🖥️
 
 ## KG-Kairos 1기 활동 (2024.01 ~ 2024.06)
   - Vision AI를 이용한 서비스 촬영 로봇: 객체 탐지 모델(Yolov8)과 얼굴 인식 모델(Adaface)을 결합하여, 특정 인물을 따라가는 로봇을 구현. 로봇은 특정 인물을 따라가 촬영 서비스를 제공
