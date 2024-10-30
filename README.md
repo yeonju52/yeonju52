@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=yeonju52&fontSize=60&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=53&descSize=25)
 
 ### 👋 AI 모델의 취약점을 최소화하는 개발자, 이연주입니다 🖥️
+안녕하세요! **AI 모델의 취약점을 최소화**하는 **하드웨어 플랫폼 개발자**가 되고 싶은 이연주입니다. 😊
+
+**AI**가 우리의 삶에 점점 더 깊숙이 들어오는 요즘, 그 기술이 **얼마나 신뢰할 수 있는지**가 정말 중요하다고 생각합니다. 하드웨어 기기를 대상으로 한 프로젝트에 더 많은 흥미를 느끼고 있으며, 프로젝트를 진행할 때 더욱 **신뢰성과 안정성**에 심혈을 기울이고 있어요.
+
+
+AI 기술이 사용자에게 믿음을 줄 수 있도록 기여하고, **신뢰성 높은 AI 서비스**를 만드는 것을 지향하고 있습니다. 함께 고민하고 나누어요! 🤲🏻
 
 ## KG-Kairos 1기 활동 (2024.01 ~ 2024.06)
   - Vision AI를 이용한 서비스 촬영 로봇: 객체 탐지 모델(Yolov8)과 얼굴 인식 모델(Adaface)을 결합하여, 특정 인물을 따라가는 로봇을 구현. 로봇은 특정 인물을 따라가 촬영 서비스를 제공
