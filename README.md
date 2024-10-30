@@ -8,7 +8,7 @@
     - 팀 MOIRO 깃허브 [MOIRO-KAIROS](https://github.com/MOIRO-KAIROS)
     - 통합 워크스페이스 [moiro_ws](https://github.com/MOIRO-KAIROS/moiro_ws)
     - 주요 개발 파트 [moiro_vision](https://github.com/MOIRO-KAIROS/moiro_vision) - demo ver. [faceRec](https://github.com/MOIRO-KAIROS/faceRec)
-    
+    - 시연 영상 [유튜브 링크](https://www.youtube.com/watch?v=wvV16o518Vw&themeRefresh=1)
 <p align="center">
   <img src="img/MOIRO/MOIRO_HW.png" alt="Image 111" height="140"/>
   <img src="img/MOIRO/MOIRO_Result.png" alt="Image 222" height="140"/>
@@ -18,7 +18,7 @@
 ## 프로젝트
   - 문자맥락형 도서추천 앱 서비스(외부 한이음 프로젝트): GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘 담당 > 메타인지
       > SBert 네트워크를 참고하여, KoGPT를 이용한 추천 알고리즘을 구축 (설계 아이디어 및 구현에 대한 내용에 대해 알고 싶다면, [cometext-gpt](https://github.com/Hanium-Cometext/cometext-gpt)에서 참고)
-  - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트): LINUX 환경 + 얼굴 탐지 알고리즘 + Flask 서버 연결 + 실시간 처리 + 필터 적용 + Web Server(Spring Boot)와 AI Server(Flask) 연동 (링크: [AI-Flask](https://github.com/Filter-Web/AI))
+  - 실시간 얼굴 필터 웹 서비스(교내 캡스톤 프로젝트): LINUX 환경 + 얼굴 탐지 알고리즘 + Flask 서버 연결 + 실시간 처리 + 필터 적용 + Web Server(Spring Boot)와 AI Server(Flask) 연동 (링크: [AI-Flask](https://github.com/Filter-Web/AI), 시연 영상: [유튜브 링크](https://www.youtube.com/watch?v=wvV16o518Vw))
 <p align="center">
   <img src="img/PROJECT/1_GPT_Prompt.png" alt="Image 11" height="140"/>
   <img src="img/PROJECT/2_FilterWeb1.jpeg" alt="Image 22" height="140"/>
