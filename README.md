@@ -42,9 +42,15 @@ AI 기술이 사용자에게 믿음을 줄 수 있도록 기여하고, **신뢰�
   <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" alt="Image 3" height="140"/>
 </p>
 
-### 백준 랭킹
+### 랭킹 (백준, 깃허브)
+[velog](https://velog.io/@yeonju52/series/%EC%BD%94%ED%85%8CC)를 통해 `알고리즘 TIL 기록`을 진행하고 있습니다.
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonju509)](https://solved.ac/yeonju509)
+<!--
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yeonju52&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yeonju52/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yeonju52&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+-->
 
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
