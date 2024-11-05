@@ -42,6 +42,10 @@ AI 기술이 사용자에게 믿음을 줄 수 있도록 기여하고, **신뢰�
   <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" alt="Image 3" height="140"/>
 </p>
 
+### 백준 랭킹
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonju509)](https://solved.ac/yeonju509)
+
 <!--
 **yeonju52/yeonju52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
