@@ -42,7 +42,7 @@ AI 기술이 사용자에게 믿음을 줄 수 있도록 기여하고, **신뢰�
   <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" alt="Image 3" height="140"/>
 </p>
 
-### 랭킹 (백준, 깃허브)
+### 랭킹 (백준)
 [velog](https://velog.io/@yeonju52/series/%EC%BD%94%ED%85%8CC)를 통해 `알고리즘 TIL 기록`을 진행하고 있습니다.
 
 [![Solved.ac
