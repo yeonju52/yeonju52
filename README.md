@@ -9,7 +9,7 @@ AI 기술이 사용자에게 믿음을 줄 수 있도록 기여하고, **신뢰�
 
 ## 멋쟁이사자처럼 백엔드/JAVA 스쿨(심화) (2024.12 ~ 2025.02 (진행중))
 - Elasticsearch 검색 엔진 구축 프로젝트
-  - JPA와 Spring Boot를 활용해 데이터 검색과 관리, NPGException을 직접 설계하여 검색 과정에서 발생할 수 있는 예외를 체계적으로 관리, ElasticSearch을 활용하여 자연어 처리(NLP) 기반 검색 엔진과 한글 자동완성 지원
+  > JPA와 Spring Boot를 활용해 데이터 검색과 관리, `NPGException`을 직접 설계하여 검색 과정에서 발생할 수 있는 예외를 체계적으로 관리, ElasticSearch을 활용하여 자연어 처리(NLP) 기반 검색 엔진과 한글 자동완성 지원
   - 워크스페이스 [NangPaGo](https://github.com/MARS-LIKELION/NangPaGo)
   - 서비스 [URL](https://nangpago.site/): 현재 서비스는 웹뷰로 최적화되어 있습니다.
 
