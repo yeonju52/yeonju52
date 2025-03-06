@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=yeonju52&fontSize=60&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=53&descSize=25)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonju52&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonju52&layout=compact&theme=dracula)
+
 <!--
 ### 👋 AI 모델의 취약점을 최소화하는 개발자, 이연주입니다 🖥️
 안녕하세요! **AI 모델의 취약점을 최소화**하는 개발자가 되고 싶은 이연주입니다. 😊
