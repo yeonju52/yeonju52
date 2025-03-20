@@ -9,7 +9,7 @@
   - Elasticsearch, RabbitMQ, MySQL, MongoDB
 - **링크**: 워크스페이스 [MARS-LIKELION](https://github.com/MARS-LIKELION/NangPaGo), 배포 URL [NangPaGo (https://nangpago.site/)](https://nangpago.site/)
 <p align="center">
-  <img src="img/NANGPAGO/WEB2.png" alt="NANGPAGO_WEB" height="140"/>
+  <img src="img/NANGPAGO/Web2.png" alt="NANGPAGO_WEB" height="140"/>
   <img src="img/NANGPAGO/Architecture.png" alt="NANGPAGO_ARCH" height="140"/>
   <img src="img/NANGPAGO/Award.jpeg" alt="NANGPAGO_TEAM" height="140"/>
 </p>
