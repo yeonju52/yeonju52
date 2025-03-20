@@ -7,7 +7,7 @@
 - **기술**:  
   - SpringBoot, React, Jenkins, Docker, Github Actions
   - Elasticsearch, RabbitMQ, MySQL, MongoDB
-- **링크**: 워크스페이스 [MARS-LIKELION](https://github.com/MARS-LIKELION/NangPaGo), 배포 URL [NangPaGo](https://nangpago.site/)
+- **링크**: 워크스페이스 [MARS-LIKELION](https://github.com/MARS-LIKELION/NangPaGo), 배포 URL [NangPaGo (https://nangpago.site/)](https://nangpago.site/)
 
 #### **KG-KAIROS Vision AI 기반 서비스 로봇 설계**  
 - **설명**: Intel RealSense D435와 YOLOv8을 이용해 대상 인물 추적 및 로봇 제어. Flask를 활용한 웹 인터페이스 개발로 다중 장치 통합.
