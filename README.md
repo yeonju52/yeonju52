@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonju509)](https://solved.ac/yeonju509)
 
-### 🌐 **Web Platform**  
+### 🌟 **프로젝트**
 #### **Elasticsearch 기반 검색 및 추천 웹 서비스**  
 - **설명**: RESTful API 개발, 서버 아키텍처 설계 및 Elasticsearch를 활용한 검색 성능 최적화.  
 - **성과**: RabbitMQ 이벤트 아키텍처를 통해 ‘좋아요’ 기능의 DB Lock 해결 및 응답 속도 개선, 실시간 데이터 동기화 구현을 위해 SSE(Server-Sent Events) 적용.  
