@@ -52,6 +52,7 @@
 - **기술**:  
   - Django, Kotlin
   - PyTorch, KoGPT
+- **링크**: 워크스페이스 [Cometext-GPT](https://github.com/Hanium-Cometext/cometext-gpt), 시연 영상 [유튜브 링크](https://youtu.be/HM0ExHpEnNA?si=v_ZHeHOi-ZATArSk)
 <p align="center">
   <img src="img/PROJECT/1_GPT_Prompt.png" alt="Image 11"x height="140"/>
   <img src="img/PROJECT/2_FilterWeb2.png" alt="Image 33" height="140"/>
@@ -62,7 +63,8 @@
 - **성과**: F1 Score 73%, 마케팅 전략 개선에 활용.  
 - **기술**:  
   - Pandas, LightGBM
-
+- **링크**: 워크스페이스 [Market_RecSys](https://github.com/yeonju52/Market_RecSys.git), PPT 자료 [링크](https://github.com/yeonju52/Market_RecSys/blob/main/Final_Submission.pdf)
+- 
 #### **KBO 데이터 분석 프로젝트**  
 - **설명**: Pandas와 Selenium으로 KBO 데이터 분석 및 시각화.  
 - **기술**:  
