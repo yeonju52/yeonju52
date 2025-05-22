@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=yeonju52&fontSize=60&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=53&descSize=25)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=yeonju52&fontSize=60&fontAlignY=75&desc=The%20journey%20is%20the%20reward&descAlignY=53&descSize=25)-->
 
-### 🌐 **Web Development**  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonju509)](https://solved.ac/yeonju509)
+
+### 🌐 **Web Platform**  
 #### **Elasticsearch 기반 검색 및 추천 웹 서비스**  
 - **설명**: RESTful API 개발, 서버 아키텍처 설계 및 Elasticsearch를 활용한 검색 성능 최적화.  
 - **성과**: RabbitMQ 이벤트 아키텍처를 통해 ‘좋아요’ 기능의 DB Lock 해결 및 응답 속도 개선, 실시간 데이터 동기화 구현을 위해 SSE(Server-Sent Events) 적용.  
@@ -35,10 +38,9 @@
   - Spring Boot, Flask
   - Pytorch, OpenCV
 - **링크**: 워크스페이스 [Filter-Web](https://github.com/Filter-Web/AI), 시연 영상 [유튜브 링크](https://www.youtube.com/watch?v=wvV16o518Vw))
+
 <p align="center">
-  <img src="img/PROJECT/1_GPT_Prompt.png" alt="Image 11" height="140"/>
   <img src="img/PROJECT/2_FilterWeb1.jpeg" alt="Image 22" height="140"/>
-  <img src="img/PROJECT/2_FilterWeb2.png" alt="Image 33" height="140"/>
 </p>
 
 ---
@@ -50,6 +52,10 @@
 - **기술**:  
   - Django, Kotlin
   - PyTorch, KoGPT
+<p align="center">
+  <img src="img/PROJECT/1_GPT_Prompt.png" alt="Image 11"x height="140"/>
+  <img src="img/PROJECT/2_FilterWeb2.png" alt="Image 33" height="140"/>
+</p>
 
 #### **CRM 기반 고객 이탈 예측 모델**  
 - **설명**: RFM(Customer Segmentation)과 LGBM 모델로 고객 이탈 예측.  
@@ -76,8 +82,5 @@
   <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" alt="Image 3" height="140"/>
 </p>
 
-### 랭킹 (백준)
+### 알고리즘
 [velog](https://velog.io/@yeonju52/series/%EC%BD%94%ED%85%8CC)를 통해 `알고리즘 TIL 기록`을 진행하고 있습니다.
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonju509)](https://solved.ac/yeonju509)
