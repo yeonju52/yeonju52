@@ -41,7 +41,7 @@ LLM과 OCR을 활용해 학부모가 문제 사진을 업로드하면 풀이 해
 ## 🌟 Projects
 
 <details open>
-  <summary>📸 Project Overview (클릭하면 접힙니다)</summary>
+  <summary>📸 Project Preview (클릭하면 접힙니다)</summary>
   
 | Project | Preview |
 |:--:|:--:|
