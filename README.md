@@ -103,6 +103,7 @@ KoGPT와 S-BERT를 결합해 문장의 의미를 벡터화하고 유사도 기�
 ---
 
 ## 📊 Algorithm & Study
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonju509)](https://solved.ac/yeonju509)
 
 - [Velog — 알고리즘 TIL 기록](https://velog.io/@yeonju52/series/%EC%BD%94%ED%85%8CC)  
