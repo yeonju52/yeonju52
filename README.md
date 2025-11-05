@@ -40,6 +40,7 @@ LLM과 OCR을 활용해 학부모가 문제 사진을 업로드하면 풀이 해
 
 ## 🌟 Projects
 
+<!--
 <details open>
   <summary>📸 Project Preview (클릭하면 접힙니다)</summary>
   
@@ -51,32 +52,42 @@ LLM과 OCR을 활용해 학부모가 문제 사진을 업로드하면 풀이 해
 | **Cometext** | <img src="img/PROJECT/1_GPT_Prompt.png" height="100"/> |
 | **CRM Model** | <img src="img/INTERN/1_OpenPose.png" height="100"/> <img src="img/INTERN/2_YOLO_FACE.jpeg" height="100"/> <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" height="100"/>  |
 </details>
+-->
 
 ### [NangPaGo(냉파고) — Elasticsearch 기반 검색·추천 웹 서비스](https://github.com/MARS-LIKELION/NangPaGo)
 Elasticsearch 기반 자연어 검색과 RabbitMQ 이벤트 아키텍처를 적용해 사용자의 재료 입력에 맞춰 레시피를 추천하는 웹 서비스 [👉배포 URL](https://nangpago.site/)
 - **성과:** 비동기 이벤트 처리로 검색 응답속도 85% 개선  
-- **Stack:** Spring Boot, MySQL, Elasticsearch, RabbitMQ  
+- **Stack:** Spring Boot, MySQL, Elasticsearch, RabbitMQ
+
+<img src="img/NANGPAGO/Web2.png" height="180"/> <img src="img/NANGPAGO/Architecture.png" height="180"/> <img src="img/NANGPAGO/Award.jpeg" height="180"/>
 
 ### [MOIRO — Vision AI 자율 촬영 로봇](https://github.com/MOIRO-KAIROS/moiro_ws)
 Flask 기반 RESTful API로 로봇(AGV·로봇 암·카메라)을 통합 제어하는 하드웨어-소프트웨어 오케스트레이션 시스템  
 - **성과:** 3대 디바이스 통합 제어로 13fps/15fps 실시간 프레임 유지율 달성  
-- **Stack:** ROS2, Flask, YOLOv8, AdaFace
+- **Stack:** Flask, ROS2, YOLOv8, AdaFace
+
+<img src="img/MOIRO/MOIRO_HW.png" height="180"/> <img src="img/MOIRO/MOIRO_Result.png" height="180"/> <img src="img/MOIRO/MOIRO_WEB.png" height="180"/>
 
 ### [AIFT — 실시간 얼굴 필터 웹 서비스](https://github.com/Filter-Web/AI)
 Spring Boot와 Flask를 연동해 웹캠 영상을 실시간으로 인식·처리하는 얼굴 필터 웹 서비스  
-- **성과:** YOLO 기반 실시간 필터 처리로 평균 응답속도 40% 단축  
-- **Stack:** Spring Boot, Flask, OpenCV
+- **성과:** NVIDIA GPU를 활용한 AI 객체 탐지 모델을 Flask 서버에 배포하고, 이를 웹과 실시간 연동하여 스트리밍 기반 얼굴 필터 적용 구현
+- **Stack:** Spring Boot, Flask, OpenCV, YOLO-Face
+
+<img src="img/PROJECT/2_FilterWeb1.jpeg" height="180"/> <img src="img/PROJECT/2_FilterWeb2.png" height="180"/>
 
 ### [Cometext — 문장 맥락 기반 도서 추천 시스템](https://github.com/Hanium-Cometext/cometext-gpt)
 KoGPT와 S-BERT를 결합해 문장의 의미를 벡터화하고 유사도 기반으로 도서를 추천하는 자연어 처리 서비스  
 - **성과:** 기존 연구를 벤치마킹해 자체 데이터셋에 특화된 GPT 기반 문맥 검색 시스템을 독자적으로 구현
-- **Stack:** Django, PyTorch, KoGPT, S-BERT
+- **Stack:** Flask, PyTorch, KoGPT, S-BERT
+
+<img src="img/PROJECT/1_GPT_Prompt.png" height="180"/>
 
 ### [CRM 고객 이탈 예측 모델](https://github.com/yeonju52/Market_RecSys.git)
 고객 행동 데이터를 기반으로 LightGBM·NCF 모델을 활용해 이탈 예측 및 맞춤형 상품 추천을 수행한 프로젝트  
 - **성과:** LGBM 모델로 F1 Score 0.73 달성, 세분화된 고객군 타깃팅 성공  
 - **Stack:** Pandas, LightGBM, PyTorch
 
+<img src="img/INTERN/1_OpenPose.png" height="180"/> <img src="img/INTERN/2_YOLO_FACE.jpeg" height="180"/> <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" height="180"/>
 
 
 <!--
