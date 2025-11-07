@@ -3,8 +3,6 @@
 **Backend Developer** focusing on integrating AI into web and embedded systems  
 주요 관심 분야는 **AI 기반 백엔드 아키텍처 설계**, **시스템 통합**, **실시간 데이터 처리**입니다.
 
----
-
 ## 🛠️ Tech Stack
 <p align="center"> <!-- 💻 Language -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -87,8 +85,6 @@ KoGPT와 S-BERT를 결합해 문장의 의미를 벡터화하고 유사도 기�
 - **성과:** LGBM 모델로 F1 Score 0.73 달성, 세분화된 고객군 타깃팅 성공  
 - **Stack:** Pandas, LightGBM, PyTorch
 
-<img src="img/INTERN/1_OpenPose.png" height="180"/> <img src="img/INTERN/2_YOLO_FACE.jpeg" height="180"/> <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" height="180"/>
-
 
 <!--
 |          Project          |                                                                                  Preview                                                                                  |
@@ -109,6 +105,7 @@ KoGPT와 S-BERT를 결합해 문장의 의미를 벡터화하고 유사도 기�
 - [Velog — 알고리즘 TIL 기록](https://velog.io/@yeonju52/series/%EC%BD%94%ED%85%8CC)  
 - [학부연구 인턴십 — Computer Vision Research](https://github.com/yeonju52/ComputerVision.git)
 
+<img src="img/INTERN/1_OpenPose.png" height="180"/> <img src="img/INTERN/2_YOLO_FACE.jpeg" height="180"/> <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" height="180"/>
 ---
 
 <p align="center">
