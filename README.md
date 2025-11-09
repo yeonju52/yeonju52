@@ -47,7 +47,9 @@ LLM과 OCR을 결합해 **학부모가 문제 이미지를 업로드하면 자�
 * Stack: Spring Boot · Flask · PostgreSQL · OpenAI API · Render
 
 <img src="img/INTERN/UserFlow.png"/>
-<img src="img/INTERN/Architecture.jpg" height="180"/>
+<p align="center">
+<img src="img/INTERN/Web.gif" height="180"/>
+</p>
 
 ---
 
