@@ -34,7 +34,6 @@ AI 기능을 서비스에 통합하여 **팀이 지속적으로 운영할 수 �
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </p>
 
----
 
 ## 🌟 Intern
 
@@ -68,12 +67,16 @@ LLM과 OCR을 결합해 **학부모가 문제 이미지를 업로드하면 자�
 
 <img src="img/NANGPAGO/Web2.png" height="180"/> <img src="img/NANGPAGO/Architecture.png" height="180"/>
 
+---
+
 ### [MOIRO — Vision AI 자율 촬영 로봇](https://github.com/MOIRO-KAIROS/moiro_ws)
 Flask 기반 RESTful API로 로봇(AGV·로봇 암·카메라)을 통합 제어하는 하드웨어-소프트웨어 오케스트레이션 시스템  
 - 3대 디바이스 통합 제어로 13fps/15fps 실시간 프레임 유지율 달성  
 - **Stack:** Flask, ROS2, YOLOv8, AdaFace
 
 <img src="img/MOIRO/MOIRO_Result.png" height="180"/> <img src="img/MOIRO/MOIRO_WEB.png" height="180"/>
+
+---
 
 ### [AIFT — 실시간 얼굴 필터 웹 서비스](https://github.com/Filter-Web/AI)
 Spring Boot와 Flask를 연동해 웹캠 영상을 실시간으로 인식·처리하는 얼굴 필터 웹 서비스  
@@ -82,6 +85,8 @@ Spring Boot와 Flask를 연동해 웹캠 영상을 실시간으로 인식·처�
 
 <img src="img/PROJECT/2_FilterWeb1.jpeg" height="180"/> <img src="img/PROJECT/2_FilterWeb2.png" height="180"/>
 
+---
+
 ### [Cometext — 문장 맥락 기반 도서 추천 시스템](https://github.com/Hanium-Cometext/cometext-gpt)
 KoGPT와 S-BERT를 결합해 문장의 의미를 벡터화하고 유사도 기반으로 도서를 추천하는 자연어 처리 서비스  
 - 기존 연구를 벤치마킹해 자체 데이터셋에 특화된 GPT 기반 문맥 검색 시스템을 독자적으로 구현
@@ -89,11 +94,17 @@ KoGPT와 S-BERT를 결합해 문장의 의미를 벡터화하고 유사도 기�
 
 <img src="img/PROJECT/1_GPT_Prompt.png" height="180"/>
 
+---
+
 ### [CRM 고객 이탈 예측 모델](https://github.com/yeonju52/Market_RecSys.git)
 고객 행동 데이터를 기반으로 LightGBM·NCF 모델을 활용해 이탈 예측 및 맞춤형 상품 추천을 수행한 프로젝트  
 - LGBM 모델로 F1 Score 0.73 달성, 세분화된 고객군 타깃팅 성공  
 - **Stack:** Pandas, LightGBM, PyTorch
 
+<img src="img/PROJECT/RFM_CRM.png" 
+height="180"/>
+<img src="img/PROJECT/LGBM.png" 
+height="180"/>
 
 <!--
 |          Project          |                                                                                  Preview                                                                                  |
