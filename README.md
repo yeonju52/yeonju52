@@ -8,7 +8,9 @@ AI 기능을 서비스에 통합하여 **팀이 지속적으로 운영할 수 �
 
 인턴 프로젝트에서는 **OpenAI API를 활용한 LLM 기반 해설 기능**을 백엔드에 통합했습니다. 모델 호출과 데이터 처리 로직을 **별도 레이어로 분리하여**, 기능 확장이나 모델 변경에도 **서비스 전체가 안정적으로 동작하도록 설계했습니다.**
 
-<img src="img/NANGPAGO/Award.jpeg" height="240"/>
+<p align="center">
+  <img src="img/NANGPAGO/Award.jpeg" height="240"/>
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center"> <!-- 💻 Language -->
