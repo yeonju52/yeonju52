@@ -48,7 +48,7 @@ LLM과 OCR을 결합해 **학부모가 문제 이미지를 업로드하면 자�
 
 <img src="img/INTERN/UserFlow.png"/>
 <p align="center">
-<img src="img/INTERN/Web.gif" height="180"/>
+<img src="img/INTERN/Web.gif" height="360"/>
 </p>
 
 ---
