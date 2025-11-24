@@ -1,8 +1,9 @@
+<!--
 # 👋 YeonJu Lee - Backend & AI Developer  
 
 **Backend Developer** passionate about integrating **AI technologies** into **web and embedded systems**.  
-
-## AI 기능을 서비스 로직에 녹여내는 백엔드 개발자
+-->
+## AI 기능을 서비스 로직에 녹여내는 엔지니어
 
 AI 기능을 서비스에 통합하여 **팀이 지속적으로 운영할 수 있는 구조로 비즈니스 로직을 구현하는 것**을 지향합니다.
 
