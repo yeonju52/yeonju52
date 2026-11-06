@@ -1,139 +1,98 @@
-# 👋 YeonJu Lee
+# YeonJu Lee
 
-<!--
-# 👋 YeonJu Lee - Backend & AI Developer  
+로봇, 센서, 서비스에서 나온 데이터를 수집하고, 이후 단계에서 쓸 수 있도록 정제해 적재합니다.  
+Java와 Python으로 장비와 시스템 사이의 인터페이스와 백엔드를 만들고, SQL과 메시지 브로커로 그 흐름을 운영합니다.
 
-**Backend Developer** passionate about integrating **AI technologies** into **web and embedded systems**.  
+앞으로는 스마트팩토리와 로봇 데이터 엔지니어링 분야에서 일하고 싶습니다.
 
-## AI 기능을 서비스 로직에 녹여내는 엔지니어
+## Tech Stack
 
-AI 기능을 서비스에 통합하여 **팀이 지속적으로 운영할 수 있는 구조로 비즈니스 로직을 구현하는 것**을 지향합니다.
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 
-인턴 프로젝트에서는 **OpenAI API를 활용한 LLM 기반 해설 기능**을 백엔드에 통합했습니다. 모델 호출과 데이터 처리 로직을 **별도 레이어로 분리하여**, <br>기능 확장이나 모델 변경에도 **서비스 전체가 안정적으로 동작하도록 설계했습니다.**
--->
+![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-<p align="center">
-  <img src="img/NANGPAGO/Award.jpeg" height="240"/>
-</p>
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## 🛠️ Tech Stack
-<p align="center"> <!-- 💻 Language -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
-<p align="center"> <!-- 🌱 Framework -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/> </p>
-<p align="center"> <!-- 🗄️ Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> </p>
-<p align="center"> <!-- 🔍 Infra / Message Queue / AI -->
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> </p>
-<p align="center"> <!-- ⚙️ DevOps / Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </p>
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+## Projects
 
-## 🌟 Intern
+### [MOIRO: Vision AI 자율 촬영 로봇](https://github.com/MOIRO-KAIROS/moiro_ws) (로봇 장비 데이터 수집)
 
-### [ILTA(일타) — AI 수학 선생님 웹 서비스](https://github.com/ocy-likelion/AI_teacher_2_backend/)
+AGV, 로봇 암, 카메라를 ROS2와 HTTP API로 묶어, 영상과 제어를 한 경로로 모으는 시스템입니다.
 
-LLM과 OCR을 결합해 **학부모가 문제 이미지를 업로드하면 자녀에게 설명할 수 있도록 해설을 제공하는 AI 기반 수학 학습 도우미**
+- 웹(Flask)에서 라즈베리파이, COM1, COM2로 HTTP 요청을 보내고, 각 장비는 ROS2로 AGV, 로봇 암(MyCobot), RealSense, AdaFace, YOLOv8를 실행
+- 촬영 화면은 DroidCam 프레임을 읽어 mp4로 기록하고, fps는 장치 값(`CAP_PROP_FPS`)을 그대로 사용
+- Flask, ROS2, YOLOv8, AdaFace
 
-* **GPT API 기반 해설 생성 로직** 구현으로 QA 정확도 95% 달성
-* **OCR 전처리(pytesseract)** 로 수식 인식률 향상 (lang='kor+eng+equ')
-* Render 기반 **CI/CD 파이프라인 구축** (256MB 환경에서 모델 경량화)
-* Stack: Spring Boot · Flask · PostgreSQL · OpenAI API · Render
-
-<img src="img/INTERN/UserFlow.png"/>
-<p align="center">
-<img src="img/INTERN/Web.gif" height="360"/>
-</p>
+![MOIRO 기구](img/MOIRO/MOIRO_HW.png) ![MOIRO 수집, 제어 화면](img/MOIRO/MOIRO_Result.png) ![MOIRO 장비 연결 콘솔](img/MOIRO/MOIRO_WEB.png)
 
 ---
 
-## 🌟 Projects
+### [NangPaGo: 재료 기반 레시피 추천 웹 서비스](https://github.com/MARS-LIKELION/NangPaGo) (검색 데이터 파이프라인, 이벤트 처리)
 
-### [NangPaGo(냉파고) — Elasticsearch 기반 검색·추천 웹 서비스](https://github.com/MARS-LIKELION/NangPaGo)
+재료와 커뮤니티 이벤트를 검색 인덱스와 메시지 큐에 올리고, 운영 현황은 대시보드에서 봅니다.  
+멋쟁이사자처럼 Java Back-end+ **최우수상**.
 
-**Elasticsearch 기반 자연어 검색 시스템**으로 사용자의 재료 입력에 맞춰 **맞춤형 레시피를 추천**하고,
-**비동기 이벤트 아키텍처 기반 실시간 커뮤니티·알림 기능**을 제공하는 웹 서비스
+- MySQL의 레시피 데이터를 Elasticsearch에 동기화하고 검색
+- RabbitMQ로 좋아요, 알림 이벤트를 비동기 처리하고 SSE로 전달
+- Docker, Jenkins로 배포하고, Admin에서 이용 통계와 감사 로그를 모니터링
+- Spring Boot, MySQL, Elasticsearch, RabbitMQ
 
-* **Elasticsearch 기반 검색 및 자동완성 API** 구현으로 검색 응답속도 85% 개선
-* **RabbitMQ + SSE 이벤트 아키텍처** 로 좋아요 토글 및 실시간 알림 기능 구현
-* **Admin Dashboard** 구축으로 통계·감사 로그 실시간 모니터링
-* Stack: Spring Boot · MySQL · Elasticsearch · Docker · Jenkins
+[서비스](https://nangpago.site/)
 
-[👉 서비스 배포 URL](https://nangpago.site/)
+![Java Back-end+ 최우수상](img/NANGPAGO/Award.jpeg)  
+멋쟁이사자처럼 Java Back-end+ 최우수상
 
-<img src="img/NANGPAGO/Web2.png" height="180"/> <img src="img/NANGPAGO/Architecture.png" height="180"/>
-
----
-
-### [MOIRO — Vision AI 자율 촬영 로봇](https://github.com/MOIRO-KAIROS/moiro_ws)
-Flask 기반 RESTful API로 로봇(AGV·로봇 암·카메라)을 통합 제어하는 하드웨어-소프트웨어 오케스트레이션 시스템  
-- 3대 디바이스 통합 제어로 13fps/15fps 실시간 프레임 유지율 달성  
-- **Stack:** Flask, ROS2, YOLOv8, AdaFace
-
-<img src="img/MOIRO/MOIRO_Result.png" height="180"/> <img src="img/MOIRO/MOIRO_WEB.png" height="180"/>
+![NangPaGo 구성](img/NANGPAGO/Architecture.png) ![NangPaGo 서비스와 운영 대시보드](img/NANGPAGO/Web2.png)
 
 ---
 
-### [AIFT — 실시간 얼굴 필터 웹 서비스](https://github.com/Filter-Web/AI)
-Spring Boot와 Flask를 연동해 웹캠 영상을 실시간으로 인식·처리하는 얼굴 필터 웹 서비스  
-- NVIDIA GPU를 활용한 AI 객체 탐지 모델을 Flask 서버에 배포하고, 이를 웹과 실시간 연동하여 스트리밍 기반 얼굴 필터 적용 구현
-- **Stack:** Spring Boot, Flask, OpenCV, YOLO-Face
+### [Cometext: 문장 맥락 기반 도서 추천 시스템](https://github.com/Hanium-Cometext/cometext-gpt) (도서 원문 임베딩 파이프라인)
 
-<img src="img/PROJECT/2_FilterWeb1.jpeg" height="180"/> <img src="img/PROJECT/2_FilterWeb2.png" height="180"/>
+AI Hub 도서 요약 JSON 2,000건을 적재하고, 원문 임베딩을 만든 뒤, 유사 도서를 조회합니다.
 
----
+- 적재: JSON을 SQLite `books.db`에 저장 (제목, 원문, 저자, 요약)
+- 임베딩 생성: KoGPT2(`skt/kogpt2-base-v2`)로 원문을 벡터화해 PyTorch 텐서 `embeddings.pt`에 저장
+- 조회: 질의 문장을 같은 모델로 임베딩하고, PyTorch 코사인 유사도로 상위 k건을 고른 뒤 SQLite에서 제목과 메타데이터를 읽음
 
-### [Cometext — 문장 맥락 기반 도서 추천 시스템](https://github.com/Hanium-Cometext/cometext-gpt)
-KoGPT와 S-BERT를 결합해 문장의 의미를 벡터화하고 유사도 기반으로 도서를 추천하는 자연어 처리 서비스  
-- 기존 연구를 벤치마킹해 자체 데이터셋에 특화된 GPT 기반 문맥 검색 시스템을 독자적으로 구현
-- **Stack:** Flask, PyTorch, KoGPT, S-BERT
-
-<img src="img/PROJECT/1_GPT_Prompt.png" height="180"/>
+![Cometext 데이터 흐름](img/PROJECT/1_GPT_Prompt.png)
 
 ---
 
-### [CRM 고객 이탈 예측 모델](https://github.com/yeonju52/Market_RecSys.git)
-고객 행동 데이터를 기반으로 LightGBM·NCF 모델을 활용해 이탈 예측 및 맞춤형 상품 추천을 수행한 프로젝트  
-- LGBM 모델로 F1 Score 0.73 달성, 세분화된 고객군 타깃팅 성공  
-- **Stack:** Pandas, LightGBM, PyTorch
+### [ILTA: 우리 아이 수학 설명 도우미](https://github.com/ocy-likelion/AI_teacher_2_backend/) (이미지 입력 전처리)
 
-<img src="img/PROJECT/RFM_CRM.png" 
-height="180"/>
-<img src="img/PROJECT/LGBM.png" 
-height="180"/>
+문제 사진을 텍스트로 정제한 뒤 해설을 만들어 저장하는 인턴 프로젝트입니다.
 
-<!--
-|          Project          |                                                                                  Preview                                                                                  |
-| :-----------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|        **NangPaGo**       |         <img src="img/NANGPAGO/Web2.png" height="100"/> <img src="img/NANGPAGO/Architecture.png" height="100"/> <img src="img/NANGPAGO/Award.jpeg" height="100"/>         |
-|         **MOIRO**         |          <img src="img/MOIRO/MOIRO_HW.png" height="100"/> <img src="img/MOIRO/MOIRO_Result.png" height="100"/> <img src="img/MOIRO/MOIRO_WEB.png" height="100"/>          |
-|          **AIFT**         |                                                          <img src="img/PROJECT/2_FilterWeb1.jpeg" height="100"/> <img src="img/PROJECT/2_FilterWeb2.png" height="100"/>   |
-|        **Cometext**       |                               <img src="img/PROJECT/1_GPT_Prompt.png" height="100"/>                                                                                      |
-| **Research & Internship** | <img src="img/INTERN/1_OpenPose.png" height="100"/> <img src="img/INTERN/2_YOLO_FACE.jpeg" height="100"/> <img src="img/INTERN/3_Bit-Depth_Expansion.jpeg" height="100"/> |
--->
+- 문제 이미지를 AI 서버로 보내고, 받은 OCR 결과와 해설을 PostgreSQL에 저장
+- Render에 API를 배포 (`ilta-api.onrender.com`)
+- Spring Boot, Flask, PostgreSQL
+
+![ILTA 사용자 흐름](img/INTERN/UserFlow.png)![ILTA 데이터 저장과 배포 구성](img/INTERN/Architecture.jpg)![ILTA 서비스](img/INTERN/Web.gif)
 
 ---
 
-## 📊 Algorithm & Study
+### [CRM 고객 세그먼트 예측 모델](https://github.com/yeonju52/Market_RecSys.git) (고객 행동 데이터 전처리)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonju509)](https://solved.ac/yeonju509)
+구매, 이용 로그를 고객군으로 나누고, LightGBM으로 세그먼트를 예측했습니다. 기타고객/비활동고객 F1 0.73.
 
-- [Velog — 알고리즘 TIL 기록](https://velog.io/@yeonju52/series/%EC%BD%94%ED%85%8CC)  
-- [학부연구 인턴십 — Computer Vision Research](https://github.com/yeonju52/ComputerVision.git)
+Pandas, LightGBM
 
-<img src="img/CV/1_OpenPose.png" height="180"/> <img src="img/CV/2_YOLO_FACE.jpeg" height="180"/> <img src="img/CV/3_Bit-Depth_Expansion.jpeg" height="180"/>
+![고객군 전처리](img/PROJECT/RFM_CRM.png)
+
 ---
 
-<p align="center">
-  <sub>© 2025 YeonJu Lee — Backend & AI Developer</sub>
-</p>
+## 그 외
+
+- [AIFT](https://github.com/Filter-Web/AI): Flask에서 웹캠 프레임을 받아 얼굴을 검출. Spring Boot 연결은 그 저장소 README에 이후 단계로 적혀 있음
+
+## 학습
+
+![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonju509)
+
+- [Velog 알고리즘 기록](https://velog.io/@yeonju52/series/%EC%BD%94%ED%85%8CC)
+- [학부연구, Computer Vision](https://github.com/yeonju52/ComputerVision)
+
+---
+
+© 2026 YeonJu Lee
